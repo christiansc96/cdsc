@@ -1,0 +1,12 @@
+﻿CDSC/.vs
+CDSC/CDSC/obj
+CDSC/DataAccessLayer/bin
+CDSC/DataAccessLayer/obj
+CDSC/DataAccessLayer.DataLogic/bin
+CDSC/DataAccessLayer.DataLogic/obj
+CDSC/DataAccessLayer.DTO/bin
+CDSC/DataAccessLayer.DTO/obj
+CDSC/APIDataAccessLayer/bin
+CDSC/APIDataAccessLayer/obj
+CDSC/DataAccessLayer.xUnit/bin
+CDSC/DataAccessLayer.xUnit/obj
